@@ -1,0 +1,10 @@
+h3 {
+    color: cyan;
+    background-color: fuchsia;
+}
+h1{
+    text-align: center;
+}
+table,th td {
+    border: 1px solid black;
+}
